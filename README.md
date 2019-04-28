@@ -13,7 +13,7 @@ preservando, inclusive as ligações e ordem entre os átomos. Este sistema é c
    * Flask;
 
 ## Preparar o ambiente
-#### Instalar o Anaconda
+### Instalar o Anaconda
 Fazer o download no site [https://www.anaconda.com/distribution/](https://www.anaconda.com/distribution/) 
    
 Executar o seguinte comando para instalar:
@@ -21,17 +21,17 @@ Executar o seguinte comando para instalar:
  `bash ~/Downloads/Anaconda3-2019.03-Linux-x86_64.sh`
  
  
- #### Instalar o rdkit
+ ### Instalar o rdkit
  Executar o seguinte comando para instalar:
  
  `conda install -c rdkit rdkit`
  
- #### Instalar o flask
+ ### Instalar o flask
  Executar o seguinte comando para instalar:
  
  `conda install -c anaconda flask`
  
- ## Executar o sistema
+## Executar o sistema
  No diretório do projeto executar os seguintes comandos:
  
  `export FLASK_APP=draw_molecule.py`
