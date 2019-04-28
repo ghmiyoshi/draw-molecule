@@ -3,7 +3,7 @@ Teste de Seleção: Serviço Flask para Desenho Molecular
 
 Sistema: SMILES (Simplified molecular-input line-entry system)
 
-Desenvolvedor: Gabriel Hideki Miyoshi   Data: 28/04/2019
+Desenvolvedor: Gabriel Hideki Miyoshi  Data: 28/04/2019
 
 """
 
