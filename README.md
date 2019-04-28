@@ -19,15 +19,12 @@ Fazer o download no site [https://www.anaconda.com/distribution/](https://www.an
 Executar o seguinte comando para instalar:
 
  `bash ~/Downloads/Anaconda3-2019.03-Linux-x86_64.sh`
- 
- 
+  
  ### Instalar o rdkit
- Executar o seguinte comando para instalar:
  
  `conda install -c rdkit rdkit`
  
  ### Instalar o flask
- Executar o seguinte comando para instalar:
  
  `conda install -c anaconda flask`
  
