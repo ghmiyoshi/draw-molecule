@@ -6,11 +6,11 @@ Existem inúmeras maneiras de se representar moléculas. Uma destas formas consi
 preservando, inclusive as ligações e ordem entre os átomos. Este sistema é chamado de Simplified molecular-input line-entry system (SMILES).
 
 ## Tecnologias e ferramentas usadas:
-    * Python 3.6;
-    * IDE PyCharm;
-    * Anaconda;
-    * rdkit;
-    * Flask;
+   * Python 3.6;
+   * IDE PyCharm;
+   * Anaconda;
+   * rdkit;
+   * Flask;
 
 ## Preparar o ambiente
 #### Instalar o Anaconda
