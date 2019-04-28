@@ -5,7 +5,7 @@ Foi desenvolvido um sistema SMILES para representar moléculas.
 Existem inúmeras maneiras de se representar moléculas. Uma destas formas consiste em empregar uma série de regras para escrever, literalmente, a fórmula molecular por extenso,
 preservando, inclusive as ligações e ordem entre os átomos. Este sistema é chamado de Simplified molecular-input line-entry system (SMILES).
 
-## Tecnologias e ferramentas usadas:
+## Tecnologias e ferramentas
    * Python 3.6;
    * IDE PyCharm;
    * Anaconda;
