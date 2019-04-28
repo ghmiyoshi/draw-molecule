@@ -35,8 +35,7 @@ Executar o seguinte comando para instalar:
  
  `flask run`
  
- Acessar o endereço: 
- [http://localhost:5000/drawMolecule/`<SMILES>`](http://localhost:5000/drawMolecule/<SMILES>), sendo `SMILES` a fórmula molecular. 
+ Acessar o endereço [http://localhost:5000/drawMolecule/`<SMILES>`](http://localhost:5000/drawMolecule/<SMILES>), sendo `<SMILES>` a fórmula molecular que desenha desenhar. 
  
  Segue alguns exemplos:
  * CN1C=NC2=C1C(=O)N(C(=O)N2C)C
